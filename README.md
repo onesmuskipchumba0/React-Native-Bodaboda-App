@@ -1,2 +1,2 @@
-# React NAtive Bodaboda App
- 
+# React Native Bodaboda App
+ A react native bodaboda app

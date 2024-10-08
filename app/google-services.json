@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "491734377134",
+    "project_id": "boda-boda-48ad1",
+    "storage_bucket": "boda-boda-48ad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491734377134:android:dc4fd6576d43ffb3eb833f",
+        "android_client_info": {
+          "package_name": "com.onesmusbett.bodaboda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491734377134-cpqfeavqrc9q4450olg3nvs0thsh67l8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onesmusbett.bodaboda",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "491734377134-eqfjfko5ockbladdvsn9pfkov7t9o95r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKxLp-4-Mz1se0gaKvLPvz8LGm1gCEgys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491734377134-eqfjfko5ockbladdvsn9pfkov7t9o95r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
